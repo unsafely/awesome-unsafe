@@ -13,3 +13,4 @@ This list is licensed under the [Unsafe Public License](https://unsafely.github.
 
 - [unsafely/awesome-unsafe](https://github.com/unsafely/awesome-unsafe): a repository for almost all unsafe stuffs.
 - [ecomfe/echarts](https://github.com/ecomfe/echarts): more than thousand issues existing in the repo and still not resolved.
+- [vue-trend](https://github.com/QingWei-Li/vue-trend): with an obvious stupid bug unresolved
