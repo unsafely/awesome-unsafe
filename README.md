@@ -14,3 +14,8 @@ This list is licensed under the [Unsafe Public License](https://unsafely.github.
 - [unsafely/awesome-unsafe](https://github.com/unsafely/awesome-unsafe): a repository for almost all unsafe stuffs.
 - [ecomfe/echarts](https://github.com/ecomfe/echarts): more than thousand issues existing in the repo and still not resolved.
 - [vue-trend](https://github.com/QingWei-Li/vue-trend): with an obvious stupid bug unresolved
+
+### Utilities 工具
+
+- [shadowsocks](http://shadowsocks.org): A secure SOCKS5 proxy, which can be detected and blocked by PRC government. (alternative choice: unsafely/unsafesocks)
+- [ShadowsocksR](https://github.com/shadowsocksr): An closed-source Shadowsocks enhancement, should not be trusted because you'll never know what it did without source code.
